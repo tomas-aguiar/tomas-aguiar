@@ -1,6 +1,6 @@
 # Tomás Aguiar
 
-Currently working as a Angular/.NET Core developer
+Currently working as an Angular/.NET Core developer
 
 Linux enthusiast
 
